@@ -51,6 +51,7 @@ export default class CreateTodo extends Component {
             todo_completed: false
         })
     }
+
     render() {
         return (
             <div style={{marginTop: 10}}>
